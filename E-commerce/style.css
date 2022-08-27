@@ -618,6 +618,10 @@ button.normal:hover{
     height: 44px;
 }
 
+/* blog-page  */
+#banner.blog-header{
+    background-image: url("img/banner/b19.jpg");
+}
 /* media query for mobile IPHONE-SE*/
 
 @media (max-width:477px){
